@@ -1,8 +1,10 @@
 .u-textCenter {
-    text-align: center;
+	font-family: "Tangerine", serif;
+	font-size: 48px;
+	text-align: center;
 }
 
 .titleContainer {
-    font-size: 20px;
-    margin: 400px;
+	font-size: 20px;
+	margin: 400px;
 }
